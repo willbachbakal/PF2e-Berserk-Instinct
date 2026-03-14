@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "berserk-instinct",
+  "title": "Berserk Instinct",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "An instinct for the Barbarian class in Pathfinder Second Edition, inspired by the Berserk manga series.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "berserk-instinct",
+      "label": "Berserk Instinct",
+      "path": "packs/berserk-instinct",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/oovmqqiQK-nA"
 }
